@@ -36,7 +36,7 @@ Regulation:
 
 #### Taxonomy ####
 
-![](images/gsvsoc-irplan.taxonomy.png)
+![](images/avertere_soc-irplan.taxonomy.png)
 
 
 ##### Cybersecurity #####
@@ -152,7 +152,7 @@ The ISO shall certify that assets impacted by a successful compromise are eligib
 
 The CSIRT shall produce an after-action report that provides the details of the incident. The CSIRT should produce content for the report iteratively during the response. The ISO shall approve all dissemination of the report.
 
-SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
+SEE [Mission Model Report](https://github.com/avertere_k12/avertere_soc_mission-model)
 
 ##### Coordination, Sharing &amp; Notifications
 ###### Internal
@@ -188,8 +188,8 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 The ISO shall be responsible for coordinating and sharing the relevant details of an incident, without undue delay on a need to know basis, with the organization's trusted 3rd party service providers when the ISO deems that sharing is beneficial to response activities and per the organization's data classification policies.
 
-1. [Cybersecurity-as-a-Service Providers](https://www.guardsight.com)
-2. [Incident Response Partners](https://www.guardsight.com)
+1. [Cybersecurity-as-a-Service Providers](https://www.avertere.com)
+2. [Incident Response Partners](https://www.avertere.com)
 3. Legal Counsel
 4. Crisis Management Partners
 5. Cybersecurity Insurance Broker
@@ -314,7 +314,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 #### After-Action Report
 
-SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
+SEE [Mission Model Report](https://github.com/avertere_k12/avertere_soc_mission-model)
 
 1. Develop content for the report in an iterative manner as response activities are being conducted
 2. Supply detailed and factual statements and artifacts
@@ -338,8 +338,8 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
 #### Engage 3rd Party Service Providers
 
-1. [Cybersecurity-as-a-Service Providers](https://www.guardsight.com)
-2. [Incident Response Partners](https://www.guardsight.com)
+1. [Cybersecurity-as-a-Service Providers](https://www.avertere.com)
+2. [Incident Response Partners](https://www.avertere.com)
 3. Legal Counsel
 4. Crisis Management Partners
 5. Insurance Brokerage
@@ -496,7 +496,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
 
 ## SEE ALSO
-1. https://github.com/guardsight/gsvsoc_mission-model
+1. https://github.com/avertere/avertere_soc_mission-model
 2. https://www.nist.gov/cyberframework
 3. http://csrc.nist.gov/publications/nistpubs/800-61rev2/SP800-61rev2.pdf
 4. https://nvd.nist.gov/800-53/Rev4/control/IR-8
@@ -511,7 +511,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
 ----
 
-![](images/guardsight-logo.320-132.png)
+![](images/avertere_soc_logo.320-82.png)
 
-GuardSight® is a registered trademark of GuardSight, Inc. All other products and company names mentioned herein are trademarks or registered trademarks of their respective owners. © GuardSight, Inc.
+Avertere® is a registered trademark of Avertere, Inc. All other products and company names mentioned herein are trademarks or registered trademarks of their respective owners. © Avertere, Inc.
 
