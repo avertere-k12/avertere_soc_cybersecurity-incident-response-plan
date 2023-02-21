@@ -152,7 +152,7 @@ The ISO shall certify that assets impacted by a successful compromise are eligib
 
 The CSIRT shall produce an after-action report that provides the details of the incident. The CSIRT should produce content for the report iteratively during the response. The ISO shall approve all dissemination of the report.
 
-SEE [Mission Model Report](https://github.com/avertere_k12/avertere_soc_mission-model)
+SEE [Mission Model Report](https://github.com/avertere-k12/avertere_soc_mission-model)
 
 ##### Coordination, Sharing &amp; Notifications
 ###### Internal
@@ -314,7 +314,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 #### After-Action Report
 
-SEE [Mission Model Report](https://github.com/avertere_k12/avertere_soc_mission-model)
+SEE [Mission Model Report](https://github.com/avertere-k12/avertere_soc_mission-model)
 
 1. Develop content for the report in an iterative manner as response activities are being conducted
 2. Supply detailed and factual statements and artifacts
