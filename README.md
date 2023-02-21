@@ -496,7 +496,7 @@ SEE [Mission Model Report](https://github.com/avertere-k12/avertere_soc_mission-
 
 
 ## SEE ALSO
-1. https://github.com/avertere/avertere_soc_mission-model
+1. https://github.com/avertere-k12/avertere_soc_mission-model
 2. https://www.nist.gov/cyberframework
 3. http://csrc.nist.gov/publications/nistpubs/800-61rev2/SP800-61rev2.pdf
 4. https://nvd.nist.gov/800-53/Rev4/control/IR-8
